@@ -1,3 +1,8 @@
+#电影推荐系统的设计与实现【前端设计与实现】
+##项目说明：这个项目是第一次接触React的时候写的，一个学校的专业综合设计项目，是需要根据Movie-Lens数据集来推荐电影给用户。<br>
+##项目主要包含搜索功能、电影详情页、登陆注册等。比较简略哈哈哈。
+![](https://github.com/Kawul007/recomend-mivie-frontend/raw/master/public/images/readmeimg.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
